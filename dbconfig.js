@@ -1,7 +1,7 @@
 const config = {
-  user: "node",
-  password: "Cambio2022",
-  server: "169.254.244.16", //127.0.0.1
+  user: "Admin",
+  password: "null",
+  server: "192.168.0.247", //127.0.0.1
   database: "DBTEST2",
   options: {
     trustedconnection: false,
